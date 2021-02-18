@@ -1,3 +1,3 @@
 # FlipAI
 
-Included: The FAQ website for my bot called FlipAI. This will provide the FAQ database for it.
+This is the website for the FlipAI bot. It also includes a changelog.
