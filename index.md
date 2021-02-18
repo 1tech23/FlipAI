@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlipAI Homepage</title>
+    <link rel="shortcut icon" type="image/png" href="flipai.png"/>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+</head>
+<body>
+    <h1>About FlipAI</h1>
+    <p>FlipAI is an artificial intelligence Google Chats chatbot program that is programmed to answer questons that students may have about things such as STEM, language arts, etc.</p>
+    <p>Please view the changelog for more information on the history of the project.
+    <ul>
+    <li><a rel="changelog" type="text/html" href="changelog.html">Changelog, please click here.</a></li>
+      <li><a rel="tos" type="text/html" href="tos.html">Terms of Service (click here)</a></li>
+      <li><a rel="verif" type="text/html" href="googlef0278501ce68c684.html">Verification thing from Google, Click here.</a></li>
+      <li><a rel="policy" type="text/html" href="policy.html">Privacy Policy, Click here.</a></li>
+    </ul>
 
+</body>
+</html>
