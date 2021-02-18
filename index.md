@@ -2,7 +2,6 @@
 <html lang="en-US">
   <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FlipAI Homepage</title>
     <link rel="shortcut icon" type="image/png" href="flipai.png"/>
     <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
 </head>
